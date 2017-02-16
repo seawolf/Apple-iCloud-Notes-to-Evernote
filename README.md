@@ -10,6 +10,7 @@ Features:
 * discounts the *Recently Deleted* folder
 * renames the default *Notes* folder to something more meaningful (*Apple Notes*)
 * adds a `imported-from-notes` tag
+* dry-run mode that won't create anything in Evernote
 
 Unsupported:
 
